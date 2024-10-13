@@ -1,4 +1,4 @@
-# GC-Ultimate
+# GC-Ultimate (OpenBranch)
 This is the ~~official~~ forked Github page for the GC Ultimate from Hand Held Legend.
 
 ## Software and PCB License
